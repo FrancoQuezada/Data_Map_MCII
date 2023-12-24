@@ -1,0 +1,74 @@
+[
+    {
+        "Nombre": "Franco Quezada",
+        "Pais": "Francia",
+        "Ciudad": "Paris",
+        "Motivo": "Doctorado",
+        "Becas": "ANID",
+        "Latitud": 48.85341,
+        "Longuitud": 2.3488
+    },
+    {
+        "Nombre": "Andrea Espinoza",
+        "Pais": "Francia",
+        "Ciudad": "Nancy",
+        "Motivo": "Doctorado",
+        "Becas": "ANID",
+        "Latitud": 48.68439,
+        "Longuitud": 6.18496
+    },
+    {
+        "Nombre": "Oscar Vasquez",
+        "Pais": "Francia",
+        "Ciudad": "Paris",
+        "Motivo": "Doctorado",
+        "Becas": "ANID",
+        "Latitud": 48.85341,
+        "Longuitud": 2.3488
+    },
+    {
+        "Nombre": "Natalia Jorquera",
+        "Pais": "Francia",
+        "Ciudad": "Paris",
+        "Motivo": "Doctorado",
+        "Becas": "ANID",
+        "Latitud": 48.85341,
+        "Longuitud": 2.3488
+    },
+    {
+        "Nombre": "Cristian Duran",
+        "Pais": "Francia",
+        "Ciudad": "Paris",
+        "Motivo": "Doctorado",
+        "Becas": "ANID",
+        "Latitud": 48.85341,
+        "Longuitud": 2.3488
+    },
+    {
+        "Nombre": "Luis Rojo",
+        "Pais": "Francia",
+        "Ciudad": "Lille",
+        "Motivo": "Doctorado",
+        "Becas": "ANID",
+        "Latitud": 50.63297,
+        "Longuitud": 3.05858
+    },
+    {
+        "Nombre": "Luis Rojo",
+        "Pais": "Canada",
+        "Ciudad": "Montreal",
+        "Motivo": "Doctorado",
+        "Becas": "ANID",
+        "Latitud": 45.50884,
+        "Longuitud": -73.58781
+    },
+    {
+        "Nombre": "Lucas Gana",
+        "Pais": "Alemania",
+        "Ciudad": "Berlin",
+        "Motivo": "Conferencia",
+        "Becas": "USACH",
+        "Latitud": 52.52437,
+        "Longuitud": 13.41053
+    }
+]
